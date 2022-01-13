@@ -1,2 +1,2 @@
 # Herodot-Uni-Bonn
-Herodotus repository/Herodot-Repositorium
+Herodotus repository Bonn University/Herodot-Repositorium Uni Bonn
